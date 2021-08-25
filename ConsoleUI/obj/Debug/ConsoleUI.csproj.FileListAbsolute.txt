@@ -1,0 +1,10 @@
+F:\C#\InterfaceDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\C#\InterfaceDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\C#\InterfaceDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\C#\InterfaceDemo\ConsoleUI\bin\Debug\DemoLibrary.dll
+F:\C#\InterfaceDemo\ConsoleUI\bin\Debug\DemoLibrary.pdb
+F:\C#\InterfaceDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+F:\C#\InterfaceDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+F:\C#\InterfaceDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+F:\C#\InterfaceDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\C#\InterfaceDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
